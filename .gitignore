@@ -1,0 +1,11 @@
+bin/
+build/
+lib/
+romfs/inputs/day*
+.*/
+*.3dsx
+*.smdh
+*.elf
+*.t3x
+*.bcfnt
+*~
